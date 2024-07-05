@@ -12,7 +12,7 @@ export default function Home() {
       <Container className="mt-24 sm:mt-32">
         <FadeIn className="max-w-3xl">
           <h1 className="font-display text-5xl font-medium tracking-tight text-neutral-950 [text-wrap:balance] sm:text-7xl">
-            Make your online presence a reality with Inovisa!
+            Make your online presence a reality with Inovisia!
           </h1>
           <p className="mt-6 text-xl text-neutral-600">
             We are a group of developer working at the intersection of design
