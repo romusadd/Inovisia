@@ -1,5 +1,5 @@
 export function constructMetadata({
-  title = "Inovisia ",
+  title = "Inovisia",
   description = "Inovisa is an open-source website.",
   image = "/agency.PNG",
   icons = "/favicon.ico",
