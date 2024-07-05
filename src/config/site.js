@@ -25,7 +25,7 @@ export function constructMetadata({
       creator: "@KING_IN_JUNGLE",
     },
     icons,
-    metadataBase: new URL("https://agency-website-abdullah.vercel.app/"),
+    metadataBase: new URL("#"),
     themeColor: "#FFF",
     ...(noIndex && {
       robots: {
